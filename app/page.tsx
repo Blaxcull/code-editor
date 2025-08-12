@@ -4,6 +4,10 @@ export default function Home() {
   return (
       <div>
       <Canvas/>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 147e357 (first commit)
     </div>
   );
 }

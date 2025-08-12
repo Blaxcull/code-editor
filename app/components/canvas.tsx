@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 'use client'
 import { Application, extend } from '@pixi/react'
 import { Text } from 'pixi.js'
@@ -41,9 +42,20 @@ useEffect(() => {
           }}
         />
       </Application>
+=======
+const Canvas = () => {
+  return (
+    <div> 
+
+    hello
+    hello
+>>>>>>> 147e357 (first commit)
     </div>
   )
 }
 
 export default Canvas
+<<<<<<< HEAD
 
+=======
+>>>>>>> 147e357 (first commit)
