@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use client'
 import { Application, extend } from '@pixi/react'
 import { Text } from 'pixi.js'
